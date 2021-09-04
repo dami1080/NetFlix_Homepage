@@ -12,7 +12,7 @@ flexbox, grid and position and media queries for responsiveness.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link]( https://dami1080.github.io/NetFlix_Homepage/)
 
 ## Getting Started
 
